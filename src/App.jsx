@@ -1,7 +1,7 @@
 import { Provider } from 'react-redux'
 import './App.css'
 import { store } from '../store'
-import HomePage from './components/Homepage.jsx'
+import HomePage from './components/HomePage.jsx'
 
 function App() {
 
